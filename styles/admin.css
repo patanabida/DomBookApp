@@ -1,6 +1,6 @@
 #main {
     width: 50%;
-    height: 350px;
+    height: 450px;
     border: 1px solid black;
     display: flex;
     justify-content: center;
@@ -18,11 +18,12 @@
 }
 #btn {
     width: 10rem;
-    height: 2rem;
+    height: 2.5rem;
     background-color: aqua;
     border: none;
     color: brown;
     font-size: 20px;
+    border-radius: 5rem;
 
 }
 #btn:hover {
