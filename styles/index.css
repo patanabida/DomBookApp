@@ -1,10 +1,11 @@
 #main {
-    width: 50%;
+    width: 30%;
     height: 350px;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     display: flex;
     justify-content: center;
-    margin: 5rem;
+    margin: 5rem auto;
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     
 }
 #form {
